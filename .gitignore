@@ -4,6 +4,8 @@ test
 
 *.zip
 
-week7/venv
+week*/venv
+
+week*/**/requirements.txt
 
 workspace
